@@ -28,4 +28,4 @@ A digital periodic table application written in C that allows searching elements
 ### Running the Program
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/periodic-table.git
+   git clone https://github.com/Prashant-Bharti/Periodic_table.git
